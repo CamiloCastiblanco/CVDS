@@ -12,7 +12,7 @@
 
 [LinkedIn](www.linkedin.com/in/brayan-castiblanco2208)
 
-! [Image text] (https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/OIP.jfif)
+![Image text](https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/OIP.jfif)
 
 
 ```
