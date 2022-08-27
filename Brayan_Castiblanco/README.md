@@ -22,7 +22,9 @@ for i in range(10):
 ```
 
 ## Respuestas de Learn Git Branching
-**Main**
+- **Main**
+
 ![Image text](https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/Main.png)
-**Remote**
+- **Remote**
+
 ![Image text](https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/Remote.png)
