@@ -20,3 +20,9 @@ print("Hello, world!")
 for i in range(10):
     print(i)
 ```
+
+## Respuestas de Learn Git Branching
+**Main**
+![Image text](https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/Main.png)
+**Remote**
+![Image text](https://github.com/CamiloCastiblanco/CVDS/blob/master/Brayan_Castiblanco/Remote.png)
